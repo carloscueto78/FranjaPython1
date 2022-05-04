@@ -3,6 +3,7 @@
 # y un numero entero e imprimir por pantalla el nombre
 # tantas veces el numero que introdujo
 
+
 #Ejercicio 1
 numero1 = int(input("Ingrese su numero:"))
 print(numero1)
