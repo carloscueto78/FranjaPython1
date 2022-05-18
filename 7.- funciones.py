@@ -1,21 +1,21 @@
 #FUNCIONES
-# print("bienvenidos a python")
-# print("Introduccion al python")
-# print("bienvenidos a python")
-# print("Introduccion al python")
-# print("bienvenidos a python")
-# print("Introduccion al python")
+print("bienvenidos a python")
+print("Introduccion al python")
+print("bienvenidos a python")
+print("Introduccion al python")
+print("bienvenidos a python")
+print("Introduccion al python")
 
 
 
 
 # #PARAMETROS
-# def saludo(nombre, apellido):
-#     print("hola " + nombre + " " + apellido)
+def saludo(nombre, apellido):
+    print("hola " + nombre + " " + apellido)
 
-# entrada_texto = input("ingrese su nombre: ")
-# entrada_apellido = input("ingrese su apellido: ")
-# saludo(entrada_texto, entrada_apellido)
+entrada_texto = input("ingrese su nombre: ")
+entrada_apellido = input("ingrese su apellido: ")
+saludo(entrada_texto, entrada_apellido)
 
 
 
